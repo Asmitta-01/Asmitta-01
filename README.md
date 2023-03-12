@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I am a web developper also interested in software engineering.
+I am Brayan Tiwa, a web developper also interested in software engineering.
+
+<img align="right" src="https://komarev.com/ghpvc/?username=asmitta-01&label=Profile%20views&color=0e75b6&style=flat" />
 
 [![Linkedin](https://img.shields.io/badge/-BrayanTiwa-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/BrayanTiwa)
 [![Telegram](https://img.shields.io/badge/-@harold_mcclein-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Harold_McClein)
@@ -10,8 +12,8 @@ I am a web developper also interested in software engineering.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on Flutter projects
 - 🤔 I’m looking for help with Adobe XD design
-- 💬 Ask me about web programming
-- ⚡ Fun fact: I can't spend more than 4 hours in front of my laptop without a break
+- 💬 Ask me about __Web programming__
+- ⚡ Fun fact: _I can't spend more than 4 hours in front of my laptop without a break_
 
 <a href="https://git.io/streak-stats">
   <picture> 
