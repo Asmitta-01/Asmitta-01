@@ -4,7 +4,7 @@ I am Brayan Tiwa, a web developper also interested in software engineering.
 
 <img align="right" src="https://komarev.com/ghpvc/?username=asmitta-01&label=Profile%20views&color=0e75b6&style=flat" />
 
-[![Linkedin](https://img.shields.io/badge/-BrayanTiwa-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/BrayanTiwa)
+[![Discord](https://img.shields.io/badge/-Asmitta--01-blueviolet?style=flat&logo=Discord&logoColor=white)](https://discordapp.com/users/617597636597514250)
 [![Telegram](https://img.shields.io/badge/-@harold_mcclein-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Harold_McClein)
 [![Gmail](https://img.shields.io/badge/-BrayanTiwa-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:tiwabrayan@gmail.com)
 
