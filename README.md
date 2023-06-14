@@ -9,7 +9,7 @@ I am Brayan Tiwa, a web developper also interested in software engineering.
 [![Gmail](https://img.shields.io/badge/-BrayanTiwa-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:tiwabrayan@gmail.com)
 
 - 🔭 I’m currently working on Phenix D'Or website
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ...(nothing)
 - 👯 I’m looking to collaborate on Flutter projects
 - 🤔 I’m looking for help with Adobe XD design
 - 💬 Ask me about __Web programming__
@@ -21,15 +21,6 @@ I am Brayan Tiwa, a web developper also interested in software engineering.
     <source srcset="https://github-readme-streak-stats.herokuapp.com?user=asmitta-01&theme=swift&hide_border=true&mode=weekly" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
       <img alt="Asmitta's github stats" 
            src="https://github-readme-streak-stats.herokuapp.com?user=asmitta-01&theme=swift&hide_border=true&mode=weekly" />
-  </picture>
-</a>
-<br>
-<a href="https://github.com/Asmitta-01?tab=repositories">
-  <picture> 
-    <source srcset="https://github-readme-stats.vercel.app/api?username=asmitta-01&show_icons=true&hide_border=true&count_private=true&theme=dark" media="(prefers-color-scheme: dark)"/>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=asmitta-01&show_icons=true&hide_border=true&count_private=true&theme=swift" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-      <img height="180em" alt="Asmitta's github stats" 
-           src="https://github-readme-stats.vercel.app/api?username=asmitta-01&show_icons=true&hide_border=true&count_private=true&theme=swift" />
   </picture>
 </a>
 <a href="https://github.com/Asmitta-01/github-readme-stats">
