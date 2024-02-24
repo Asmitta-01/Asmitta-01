@@ -8,12 +8,12 @@ I am Brayan Tiwa, a web developper also interested in software engineering.
 [![Telegram](https://img.shields.io/badge/-@harold_mcclein-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Harold_McClein)
 [![Gmail](https://img.shields.io/badge/-BrayanTiwa-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:tiwabrayan@gmail.com)
 
-- 🔭 I’m currently working on the mobile application Around
-- 🌱 I’m currently learning ...(nothing)
+- 🔭 I’m currently working on an employee evaluation software
+- 🌱 I’m currently learning Symfony(recycling)
 - 👯 I’m looking to collaborate on Flutter projects
 - 🤔 I’m looking for help with Adobe XD design
-- 💬 Ask me about __Web programming__ an __Flutter development__
-- ⚡ Fun fact: _I can't spend more than 4.5 hours in front of my laptop without a break_
+- 💬 Ask me about __Web programming__ and __Flutter development__
+- ⚡ Fun fact: _I can't spend more than 5.5 hours in front of my laptop without a break_
 
 <a href="https://git.io/streak-stats">
   <picture> 
