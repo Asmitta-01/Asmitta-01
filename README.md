@@ -5,11 +5,10 @@ I am Brayan Tiwa, a web developper also interested in software engineering.
 <img align="right" src="https://komarev.com/ghpvc/?username=asmitta-01&label=Profile%20views&color=0e75b6&style=flat" />
 
 [![Discord](https://img.shields.io/badge/-Asmitta--01-blueviolet?style=flat&logo=Discord&logoColor=white)](https://discordapp.com/users/617597636597514250)
-[![Telegram](https://img.shields.io/badge/-@harold_mcclein-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Harold_McClein)
 [![Gmail](https://img.shields.io/badge/-BrayanTiwa-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:tiwabrayan@gmail.com)
 
-- 🔭 I’m currently working on an employee evaluation software
-- 🌱 I’m currently learning Symfony(recycling)
+- 🔭 I’m currently working on aa job mobile app
+- 🌱 I’m currently learning Docker
 - 👯 I’m looking to collaborate on Flutter projects
 - 🤔 I’m looking for help with Adobe XD design
 - 💬 Ask me about __Web programming__ and __Flutter development__
