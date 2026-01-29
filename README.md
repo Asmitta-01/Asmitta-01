@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 - 🔭 I'm currently working on a **event planner app**
 - 🌱 I'm currently learning **Docker**
@@ -20,7 +20,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### 💻 Languages
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
@@ -50,7 +50,7 @@
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 
 <div align="center">
 
@@ -61,7 +61,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -81,7 +81,7 @@
 
 ---
 
-## 🔥 Streak Stats
+## Streak Stats
 
 <div align="center">
   
@@ -95,7 +95,7 @@
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
